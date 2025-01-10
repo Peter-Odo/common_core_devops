@@ -83,3 +83,10 @@ git push origin <branch_name>
 ```
 git branch <branch_name> || git checkout -b <branch_name>
 ```
+
+- Merge Branch locally
+
+```
+1. git checkout -b <branch_name_A> # Want to merge branch B to branch A
+2. git merge <branch_name_B> # Merges branch_A to branch_B
+```
