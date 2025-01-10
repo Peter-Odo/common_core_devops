@@ -75,3 +75,11 @@ git commit -m 'Describe your changes'
 ```
 git push origin <branch_name>
 ```
+
+### Not-so Core commands
+
+- Create a new branch
+
+```
+git branch <branch_name> || git checkout -b <branch_name>
+```
